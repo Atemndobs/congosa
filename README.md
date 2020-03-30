@@ -2,7 +2,7 @@
 
 ## Getting started.
 
-####clone the repository
+#### clone the repository
 
 cd congosa
 
