@@ -2,7 +2,7 @@
 
 ## Getting started.
 
-clone the repository
+####clone the repository
 
 cd congosa
 
@@ -12,17 +12,17 @@ cd server
 
  ### `npm install`
 
- ## start sever
+ #### start sever
 
 ### `node start`
 
 
-## Install client :
+#### Install client :
 
 cd ..
 ### `npm install` or ### `yarn start`
 
-## start client
+#### start client
 
  ### `npm run start`
 
