@@ -6,7 +6,7 @@ clone the repository
 
 cd congosa
 
-# Go to server directory and install server
+#### Go to server directory and install server
 
 cd server
 
