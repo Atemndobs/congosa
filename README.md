@@ -1,32 +1,36 @@
- A reach chat-app with node js server powered by socket.io
+A react chat-app with node js server powered by socket.io
+
+## Try it out [congosa](https://congosa.netlify.com/)
+
+
 
 ## Getting started.
 
 #### clone the repository
 
-cd congosa
+##### cd congosa
 
 #### Go to server directory and install server
 
-cd server
+##### cd server
 
- ### `npm install`
+ ##### `npm install`
 
  #### start sever
 
-### `node start`
+##### `node start`
 
 
 #### Install client :
 
 cd ..
-### `npm install` or ### `yarn start`
+##### `npm install` 
 
 #### start client
 
- ### `npm run start`
+ ##### `npm run start`
 
 
-Try it out [congosa](https://congosa.netlify.com/)
+
 
 
