@@ -6,29 +6,29 @@ A react chat-app with node js server powered by socket.io
 
 ## Getting started.
 
-- clone the repository
+   - clone the repository
 
-$ cd congosa
+    $ cd congosa
 
 #### Go to server directory and install server
 
 $ cd server
 
- ##### `npm install`
+    ##### `npm install`
 
  #### start sever
 
-##### `node start`
+    ##### `node start`
 
 
 #### Install client :
 
-$ cd ..
-##### `npm install` 
+      $ cd ..
+      ##### `npm install` 
 
 #### start client
 
- ##### `npm run start`
+      ##### `npm run start`
 
 
 
